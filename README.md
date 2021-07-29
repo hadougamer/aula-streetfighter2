@@ -31,6 +31,7 @@ HADOUTV é um canal no youtube voltado para a difusão de conhecimento acerca do
 - Conversa com os participantes (Dúvidas, sugestões)
 
 **Viva o Software Livre!**
+
 [Godot Game Engine]: <https://godotengine.org>
 [Street Fighter 2 Assets]: <https://www.spriters-resource.com/snes/supersf2>
 [Mais Assets e Recursos]: <https://itch.io>
